@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T14:12:17 IST" name="Default suite" finished-at="2023-08-28T14:12:22 IST" duration-ms="4827">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T14:12:17 IST" name="Default test" finished-at="2023-08-28T14:12:22 IST" duration-ms="4827">
+      <class name="org.ApiRequests.TestApi">
+        <test-method signature="GetBBd()[pri:1, instance:org.ApiRequests.TestApi@2a7f1f10]" started-at="2023-08-28T14:12:17 IST" name="GetBBd" finished-at="2023-08-28T14:12:19 IST" duration-ms="1578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBBd -->
+        <test-method signature="PostBDD()[pri:2, instance:org.ApiRequests.TestApi@2a7f1f10]" started-at="2023-08-28T14:12:19 IST" name="PostBDD" finished-at="2023-08-28T14:12:20 IST" duration-ms="973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostBDD -->
+        <test-method signature="PUTBDD()[pri:3, instance:org.ApiRequests.TestApi@2a7f1f10]" started-at="2023-08-28T14:12:20 IST" name="PUTBDD" finished-at="2023-08-28T14:12:21 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PUTBDD -->
+        <test-method signature="DeletBDD()[pri:4, instance:org.ApiRequests.TestApi@2a7f1f10]" started-at="2023-08-28T14:12:21 IST" name="DeletBDD" finished-at="2023-08-28T14:12:22 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletBDD -->
+      </class> <!-- org.ApiRequests.TestApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
